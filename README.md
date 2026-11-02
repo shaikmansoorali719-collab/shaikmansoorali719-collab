@@ -6,9 +6,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-mansoor-ali-a58265377/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmansoorali719@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikmansoorali719-collab)
+
+📫 **Open to internships and entry-level opportunities** · Contact: shaikmansoorali719@gmail.com
 
 </div>
 
@@ -20,15 +22,6 @@ I'm a Computer Science student who loves software development, problem-solving, 
 
 ---
 
-## 🚀 Currently Learning
-
-- ☕ Java, OOP, and Data Structures & Algorithms
-- 🌐 Full-Stack Web Development (React + Spring Boot)
-- 🤖 AI, Machine Learning, and Generative AI
-- ☁️ Cloud Technologies
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -37,9 +30,17 @@ I'm a Computer Science student who loves software development, problem-solving, 
 
 </div>
 
+### 📈 Skill Levels
+
+| Level | Technologies |
+|-------|--------------|
+| 🟢 **Comfortable** (used regularly) | Java, SQL, HTML, CSS, Git, GitHub |
+| 🟡 **Building with** (using in projects) | Python, JavaScript, React, Spring Boot, FastAPI, PostgreSQL, REST APIs |
+| 🔵 **Exploring** (actively learning) | Machine Learning, Generative AI, Cloud Technologies, Advanced DSA |
+
 ---
 
-## 🛠️ Featured Project
+## 📌 Pinned Projects
 
 ### 🎓 Student Information Management System
 
@@ -47,9 +48,41 @@ A full-stack academic management app that handles student records, marks, attend
 
 - **Tech:** React · Java Spring Boot · Python FastAPI · PostgreSQL
 - **Status:** 🚧 In development
-- **Repo:** [View on GitHub](YOUR_PROJECT_REPO_URL)
 
-<!-- Add a screenshot later: ![Screenshot](link-to-image) -->
+<!--
+ADD LATER, when your repo is ready (replace YOUR_PROJECT_REPO):
+
+- **Repo:** [View on GitHub](https://github.com/shaikmansoorali719-collab/YOUR_PROJECT_REPO)
+
+<div align="center">
+<a href="https://github.com/shaikmansoorali719-collab/YOUR_PROJECT_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikmansoorali719-collab&repo=YOUR_PROJECT_REPO&theme=tokyonight&hide_border=true" />
+</a>
+</div>
+-->
+
+---
+
+## 🤖 AI / ML Learning Journey
+
+I'm studying Machine Learning and Generative AI as part of my coursework and exploring them through hands-on practice.
+
+| Area | Focus |
+|------|-------|
+| 🧠 **Machine Learning** | Core concepts, model training, and evaluation using Python |
+| ✨ **Generative AI** | How LLMs work, prompt design, and building AI-powered features |
+| 🔗 **AI + Full-Stack** | Connecting AI features to web apps through FastAPI and REST APIs |
+| ☁️ **Cloud** | Deploying and running applications on cloud services |
+
+**Next step:** Add an AI/ML project to this profile.
+
+---
+
+## 🚀 Currently Learning
+
+- ☕ Java, OOP, and Data Structures & Algorithms
+- 🌐 Full-stack development (React + Spring Boot)
+- 🗄️ Database systems and backend development
 
 ---
 
@@ -59,16 +92,6 @@ A full-stack academic management app that handles student records, marks, attend
 - Build practical, real-world projects
 - Contribute to open-source
 - Grow as a software engineer
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
